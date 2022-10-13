@@ -1,0 +1,26 @@
+html{
+    font-family: inherit;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar-nav{
+    align-items: center;
+}
+
+.nav-item{
+    font-weight: 700;
+    font-size: small;
+    padding: 4px;
+}
+
+.block-content {
+    color: #1f2544;
+    padding: var(--gutter) 0;
+    white-space: nowrap;
+}
+.date{
+    vertical-align: baseline;
+    color: #1f2544;
+    font-size: 14px;
+}
